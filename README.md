@@ -1,6 +1,6 @@
 <!-- Every card is an animated SVG drawn by scripts/render_cards.py and refreshed daily by
      .github/workflows/refresh-profile.yml. Spacing is baked into the SVGs, so keep this block
-     free of blank lines and keep each row of cards on one line with no spaces between them. -->
+     free of blank lines and keep each row of cards on one line with no spaces between  them. -->
 <div align="center">
 <a href="https://sunil-s-portfolio.vercel.app/"><img src="./cards/hero.svg" width="100%" alt="Sunil Dondey. Full stack developer at Speedy Accounts. I build full stack apps with MERN and Next.js, from online stores to billing dashboards." /></a><br>
 <img src="./cards/heatmap.svg" width="100%" alt="Sunil's contribution graph for the last year, in green, updated daily" /><br>
